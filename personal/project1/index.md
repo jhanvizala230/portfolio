@@ -25,14 +25,14 @@ RoverNet is a cutting-edge AI assistant that merges real-time computer vision wi
 ## 📸 Screenshots
 
 Home Screen
-![Demo](../images/initial_screen.png)
+![Demo](/personal/project1/images/initial_screen.png)
 
 Chatbot with uploaded image, detected objects on right and chatbot with answers based on detected surface
-![Demo](../images/results.png)
-![Demo](../images/results2.png)
+![Demo](/personal/project1/images/results.png)  
+![Demo](/personal/project1/images/results2.png)
 
 The model deteted output
-![Demo](../images/detection_result.png)
+![Demo](/personal/project1/images/detection_result.png)
 
 
 ## 🔗 Links
