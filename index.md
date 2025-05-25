@@ -1,6 +1,7 @@
 ---
 layout: home
 title: "Hi, I'm a Machine Learning Engineer"
+permalink: /
 ---
 
 ## About me
