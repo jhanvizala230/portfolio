@@ -2,8 +2,17 @@ title: "Jhanvi Zala – ML Portfolio"
 description: "Projects, Skills, and Experience of a Machine Learning Engineer"
 baseurl: ""
 url: "https://jhanvizala230.github.io"
-remote_theme: pages-themes/cayman@v0.2.0
+
+# Switch to a more modern theme (or create custom styling)
+theme: minima  # We'll customize this
 
 plugins:
   - jekyll-feed
-  - jekyll-remote-theme
+  - jekyll-seo-tag
+
+# Custom variables
+portfolio:
+  social_links:
+    email: jhanvizala230@gmail.com
+    linkedin: jhanvi-zala
+    github: jhanvizala230

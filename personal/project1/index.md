@@ -1,39 +1,55 @@
 ---
 layout: page
-title: "RoverNet"
+title: "RoverNet - Visual QA Assistant"
+description: "AI assistant combining computer vision and natural language processing"
 ---
 
-# Project Description
+# RoverNet  
+*Visual Question Answering with Detectron2 + LLM Integration*
 
-RoverNet is a cutting-edge AI assistant that merges real-time computer vision with natural language processing. It uses Detectron2 for object and instance detection and integrates with Ollama-powered LLMs (like LLaMA 3.2 or LLaVA) to answer natural language questions about images. The chatbot is build using streamlitt
+## Project Description
 
-## Key Features:
-🔍 Detects and labels objects in images using pretrained or custom models
+RoverNet is a cutting-edge AI assistant that merges real-time computer vision with natural language processing. The system:
 
-💬 Answers visual questions about scenes, combining CV and LLMs
+- Processes images through Detectron2 for object and instance detection
+- Generates comprehensive scene understanding using Ollama-powered LLMs (LLaMA 3.2/LLaVA)
+- Provides natural language answers to visual questions through a Streamlit interface
 
-⚡ Built with CUDA-accelerated PyTorch and optimized for Windows systems
+## Key Features
 
-🌐 Modular backend that can be extended to robotics, surveillance, and geospatial analysis
+**Advanced Visual Understanding**  
+Detects and labels objects in images using pretrained or custom Detectron2 models with high accuracy
 
-## 🛠️ Tech Stack
+**Natural Language Interface**  
+Answers complex questions about visual scenes by combining CV detection with LLM reasoning
+
+**High Performance**  
+Built with CUDA-accelerated PyTorch and optimized for Windows systems
+
+**Modular Architecture**  
+Extensible backend suitable for robotics, surveillance, and geospatial applications
+
+## Tech Stack
+
 - Detectron2 (Instance Segmentation)
 - Ollama (LLMs like LLaMA 3.2, LLaVA)
-- Python, PyTorch, FastAPI, Streamlit (optional)
-- CUDA 12.8, OpenCV, COCO Dataset(custom dataset)
+- Python, PyTorch, FastAPI, Streamlit
+- CUDA 12.8, OpenCV, COCO Dataset (custom dataset)
 
-## 📸 Screenshots
+## Demonstration
 
-Home Screen
-![Demo](/personal/project1/images/initial_screen.png)
+![Home Screen](/personal/project1/images/initial_screen.png)  
+*Home Screen Interface*
 
-Chatbot with uploaded image, detected objects on right and chatbot with answers based on detected surface
-![Demo](/personal/project1/images/results.png)  
-![Demo](/personal/project1/images/results2.png)
+![Image Analysis](/personal/project1/images/results.png)  
+*Image analysis with object detection overlay*
 
-The model deteted output
-![Demo](/personal/project1/images/detection_result.png)
+![Chat Example](/personal/project1/images/results2.png)  
+*Natural language Q&A about the scene*
 
+![Detection Output](/personal/project1/images/detection_result.png)  
+*Detailed object detection results*
 
-## 🔗 Links
-- [Code Repository](https://github.com/jhanvizala230/Rovernet-chatbot)
+## Project Links
+
+[View on GitHub](https://github.com/jhanvizala230/Rovernet-chatbot)
