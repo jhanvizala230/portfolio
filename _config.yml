@@ -3,3 +3,16 @@ description: "Portfolio of a Machine Learning Engineer"
 baseurl: ""
 url: "https://your-username.github.io"
 theme: minima
+
+# Optional: enable navigation links in header
+header_pages:
+  - index.md
+  - about.md
+  - projects.md
+  - skills.md
+  - contact.md
+
+# GitHub Pages build settings (recommended)
+markdown: kramdown
+plugins:
+  - jekyll-feed
