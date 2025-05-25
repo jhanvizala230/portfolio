@@ -6,7 +6,7 @@ permalink: /personal/
 
 A collection of open-source, exploratory, and passion-driven ML projects:
 
-### 🧠 [RoverNet: Visual QA Assistant](./personal/rovernet/)
+### 🧠 [RoverNet: Visual QA Assistant](./personal/project1/README.md)
 Instance segmentation + Ollama-powered LLM answering questions about images.
 
 ### 🌋 [Martian Terrain Analysis](./personal/martian-segmentation/)
