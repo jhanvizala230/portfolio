@@ -1,8 +1,8 @@
-title: "ML Portfolio"
+title: "Portfolio"
 description: "Portfolio of a Machine Learning Engineer"
 baseurl: ""
 url: "https://jhanvizala230.github.io"
-theme: minima
+theme: jekyll-theme-minimal
 
 # Optional: enable navigation links in header
 header_pages:
