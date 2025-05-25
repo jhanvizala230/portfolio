@@ -1,4 +1,9 @@
-# RoverNet Chatbot – AI-Powered Visual Assistant
+---
+layout: page
+title: "RoverNet"
+---
+
+# Project Description
 
 RoverNet is a cutting-edge AI assistant that merges real-time computer vision with natural language processing. It uses Detectron2 for object and instance detection and integrates with Ollama-powered LLMs (like LLaMA 3.2 or LLaVA) to answer natural language questions about images. The chatbot is build using streamlitt
 
