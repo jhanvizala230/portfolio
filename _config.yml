@@ -2,12 +2,8 @@ title: "Jhanvi Zala – ML Portfolio"
 description: "Projects, Skills, and Experience of a Machine Learning Engineer"
 baseurl: ""
 url: "https://jhanvizala230.github.io"
-theme: jekyll-theme-cayman
+remote_theme: pages-themes/cayman@v0.2.0
 
-# Navigation links in the header (Cayman supports only index.md by default)
-# So we include manual links in index.md or sidebar content
-
-# GitHub Pages build settings
-markdown: kramdown
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
