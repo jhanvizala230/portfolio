@@ -2,6 +2,6 @@ title: "Jhanvi Zala – ML Portfolio"
 description: "Projects, Skills, and Experience of a Machine Learning Engineer"
 url: "https://jhanvizala230.github.io"  # Your main GitHub Pages URL
 baseurl: "/portfolio"                 # Must match your repo name
-theme: jekyll-theme-minimal           # Or any supported theme
+theme: jekyll-theme-slate           # Or any supported theme
 markdown: kramdown
 plugins: [jekyll-remote-theme]
