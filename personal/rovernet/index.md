@@ -35,16 +35,19 @@ github_url: https://github.com/jhanvizala230/Rovernet-chatbot
 ## 🖼️ Demonstration
 
 **Home Interface**  
-![Home Screen](/assets/images/rovernet/initial_screen.png{:width="400" height="300" }
- 
+![Home Screen](/assets/images/rovernet/initial_screen_resize.png)
 <!-- *Streamlit UI with image upload capability* -->
 
 **Analysis Results**  
-![Image Analysis](/assets/images/rovernet/results.png){:width="400" height="300" }  
+![Image Analysis](/assets/images/rovernet/results_resize.png)
 <!-- *Object detection overlay with confidence scores* -->
 
 **Q&A Example**  
-![Chat Example](/assets/images/rovernet/results2.png){:width="400" height="300" }  
+![Chat Example](/assets/images/rovernet/results2_resize.png)
+<!-- *Natural language interaction about scene content* -->
+
+**Detection Model Results**  
+![Chat Example](/assets/images/rovernet/detection_result_resize.png)
 <!-- *Natural language interaction about scene content* -->
 
 ---
