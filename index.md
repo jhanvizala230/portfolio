@@ -1,6 +1,6 @@
 ---
-layout: home
-title: "Hi, I'm a Machine Learning Engineer"
+layout: default  # Critical for theme application
+title: Home      # Optional but recommended
 ---
 
 ## About me
