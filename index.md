@@ -31,9 +31,10 @@ Developed robust backend systems with Node.js, Jenkins, and Kubernetes at eInfoc
 
 ---
 
+
 ## 🧪 Projects
 
-### 🧠 [RoverNet: Visual QA Assistant](./personal/project1/)
+### 🧠 [RoverNet: Visual QA Assistant](./personal/rovernet/)
 Combines Detectron2 and Ollama to answer natural language questions about images.
 
 ### 🌋 [Martian Terrain Segmentation](./personal/project2/)
