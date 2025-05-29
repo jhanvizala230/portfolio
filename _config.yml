@@ -1,8 +1,8 @@
 title: "Jhanvi Zala – ML Portfolio"
 description: "Projects, Skills, and Experience of a Machine Learning Engineer"
 # url: "https://jhanvizala230.github.io"
-theme :  jekyll-theme-minimal
+theme:  jekyll-theme-minimal
 # remote_theme: pages-themes/cayman@v0.2.0
 # plugins:
 #   - jekyll-remote-theme
-markdown: kramdown
+# markdown: kramdown
