@@ -33,24 +33,24 @@ github_url: https://github.com/jhanvizala230/Rovernet-chatbot
 --- 
 
 ## 🖼️ Demonstration
-<div class="row">
-  <div class="column">
-    <img src="assets/images/rovernet/initial_screen.png" alt="Upload Interface" width="100">
-    <p><em>Image Upload</em></p>
-  </div>
-  <div class="column">
-    <img src="assets/images/rovernet/results.png" alt="Detection Results" width="100">
-    <p><em>Object Analysis</em></p>
-  </div>
-  <div class="column">
-    <img src="assets/images/rovernet/results2.png" alt="Q&A Demo" width="100">
-    <p><em>Natural Language Q&A</em></p>
-  </div>
-</div>
+
+**Home Interface**  
+![Home Screen](/assets/images/rovernet/initial_screen.png{:width="400" height="300" }
+ 
+<!-- *Streamlit UI with image upload capability* -->
+
+**Analysis Results**  
+![Image Analysis](/assets/images/rovernet/results.png){:width="400" height="300" }  
+<!-- *Object detection overlay with confidence scores* -->
+
+**Q&A Example**  
+![Chat Example](/assets/images/rovernet/results2.png){:width="400" height="300" }  
+<!-- *Natural language interaction about scene content* -->
 
 ---
 
 ## 🛠️ Compact Tech Stack
+
 | **Category**       | **Components**                                 |
 |:-------------------|:-----------------------------------------------|
 | Frameworks         | PyTorch, Detectron2, FastAPI, Streamlit        |

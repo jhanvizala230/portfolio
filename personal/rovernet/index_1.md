@@ -48,16 +48,17 @@ RoverNet merges real-time computer vision with natural language processing to:
 ## Demonstration
 
 **Home Interface**  
-![Home Screen](/assets/images/rovernet/initial_screen.png)  
-*Streamlit UI with image upload capability*
+![Home Screen](/assets/images/rovernet/initial_screen.png{:width="400" height="300" }
+ 
+<!-- *Streamlit UI with image upload capability* -->
 
 **Analysis Results**  
 ![Image Analysis](/assets/images/rovernet/results.png)  
-*Object detection overlay with confidence scores*
+<!-- *Object detection overlay with confidence scores* -->
 
 **Q&A Example**  
 ![Chat Example](/assets/images/rovernet/results2.png)  
-*Natural language interaction about scene content*
+<!-- *Natural language interaction about scene content* -->
 
 ---
 

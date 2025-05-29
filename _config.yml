@@ -5,3 +5,6 @@ baseurl: "/portfolio"                 # Must match your repo name
 theme: jekyll-theme-slate           # Or any supported theme
 markdown: kramdown
 plugins: [jekyll-remote-theme]
+kramdown:
+  input: GFM  # GitHub Flavored Markdown
+  syntax_highlighter: rouge
