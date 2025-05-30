@@ -26,7 +26,7 @@ A RAG-based NLP assistant using ChromaDB, Ollama (LLaMA 3.2), and FastAPI, deplo
 ### 🔹 [Multilingual TTS Optimization](./professional/vits-synthesis/)
 Enhanced VITS for multilingual/multispeaker synthesis with GCP Vertex AI pipelines and Docker.
 
-### 🔹 [API Engineering & CI/CD](./professional/api-engineer/)
+### 🔹[Software Engineer](./professional/)
 Developed robust backend systems with Node.js, Jenkins, and Kubernetes at eInfochips.
 
 ---
