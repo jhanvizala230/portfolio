@@ -13,12 +13,11 @@ github_url: https://github.com/jhanvizala230/Rovernet-chatbot
 ## 📋 Core Components
 
 | **Module** | **Technology** | **Performance** |
-|:------------------|:---------------------|:--------------------|
-| Computer Vision | Detectron2, OpenCV | 98.5% mAP (COCO) |
-| Language Model | LLaVA  | 92% QA accuracy |
-| Backend | FastAPI, PyTorch (CUDA 12.8)  | 24 FPS @ 1080p |
-| Frontend | Streamlit | <500ms response time |
-
+|:-----------------------|:----------------------------|:------------------------|
+|Computer Vision|Detectron2, OpenCV|98.5% mAP (COCO)|
+|Language Model|LLaVA| 92% QA accuracy|
+|Backend| FastAPI, PyTorch (CUDA 12.8)|24 FPS @ 1080p|
+|Frontend |Streamlit|<500ms response time|
 
 ---
 
@@ -34,21 +33,14 @@ github_url: https://github.com/jhanvizala230/Rovernet-chatbot
 
 ## 🖼️ Demonstration
 
-**Home Interface**  
-![Home Screen](/assets/images/rovernet/initial_screen_resize.png)
-<!-- *Streamlit UI with image upload capability* -->
+|**Home Interface** |**Analysis Results** |
+|-------------------|---------------------|
+|![Home Screen](/assets/images/rovernet/initial_screen_resize.png)|![Image Analysis](/assets/images/rovernet/results_resize.png)|
 
-**Analysis Results**  
-![Image Analysis](/assets/images/rovernet/results_resize.png)
-<!-- *Object detection overlay with confidence scores* -->
 
-**Q&A Example**  
-![Chat Example](/assets/images/rovernet/results2_resize.png)
-<!-- *Natural language interaction about scene content* -->
-
-**Detection Model Results**  
-![Chat Example](/assets/images/rovernet/detection_result_resize.png)
-<!-- *Natural language interaction about scene content* -->
+|**Q&A Example**|**Detection Model Results**|
+|-------------------|---------------------| 
+|![Chat Example](/assets/images/rovernet/results2_resize.png)|![Chat Example](/assets/images/rovernet/detection_result_resize.png)|
 
 ---
 
