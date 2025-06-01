@@ -20,18 +20,13 @@ Explore some of my best work — both from industry and my own experiments.
 
 ## 💼 Professional Experience
 
-### 🔹 [LLM-Powered Query Agent](./professional/llm-query-agent/)
-A RAG-based NLP assistant using ChromaDB, Ollama (LLaMA 3.2), and FastAPI, deployed on Azure AKS.
+- [LLM-Powered Query Agent](./professional/llm-query-agent/)
 
-### 🔹 [Multilingual TTS Optimization](./professional/vits-synthesis/)
-Enhanced VITS for multilingual/multispeaker synthesis with GCP Vertex AI pipelines and Docker.
+- [Multilingual TTS Optimization](./professional/vits-synthesis/)
 
-### 🔹[Software Engineer](./professional/)
-Developed robust backend systems with Node.js, Jenkins, and Kubernetes at eInfochips.
+- [Software Engineer – eInfochips (2019–2022)](/professional/exp1/)
 
 ---
-
-
 ## 🧪 Projects
 
 ### 🧠 [RoverNet: Visual QA Assistant](./personal/rovernet/)
