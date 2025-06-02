@@ -24,7 +24,7 @@ Explore some of my best work — both from industry and my own experiments.
 
 - [Multilingual TTS Optimization](./professional/vits-synthesis/)
 
-- [Software Engineer – eInfochips (2019–2022)](/professional/exp1/)
+- [Software Engineer – eInfochips (2019–2022)]({{ "/professional/exp1/" | relative_url }})
 
 ---
 ## 🧪 Projects
