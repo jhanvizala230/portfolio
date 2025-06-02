@@ -1,13 +1,17 @@
 ---
-layout: page
-title: "Document AI Automation – Enterprise Project"
+layout: default
+title: "Machine Learning Consultant"
+permalink: /professional/exp3/
+
 ---
 
-**Client:** Confidential  
-**Role:** ML Engineer  
-**Duration:** Jan 2024 – Apr 2024
+**Compnay:** Solver Minds Solution  
+**Role:** Machine Learning Consultant  
+**Duration:** Jan 205 – Present
 
-**Overview:**
+Projects
+
+
 
 Built an AI pipeline to extract structured data from multi-format business documents using NLP and OCR, saving ~80% manual effort.
 

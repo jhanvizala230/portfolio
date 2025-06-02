@@ -20,9 +20,9 @@ Explore some of my best work — both from industry and my own experiments.
 
 ## 💼 Professional Experience
 
-- [LLM-Powered Query Agent](./professional/llm-query-agent/)
+- [Machine Learning Consultant]({{ "/professional/exp3/" | relative_url }})
 
-- [Multilingual TTS Optimization](./professional/vits-synthesis/)
+- [Machine Learning Engineer]({{ "/professional/exp2/" | relative_url }})
 
 - [Software Engineer – eInfochips (2019–2022)]({{ "/professional/exp1/" | relative_url }})
 
