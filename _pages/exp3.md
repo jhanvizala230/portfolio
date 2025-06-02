@@ -1,7 +1,8 @@
 ---
-layout: default
+layout: single
 title: "Machine Learning Consultant"
 permalink: /professional/exp3/
+author_profile: false
 
 ---
 

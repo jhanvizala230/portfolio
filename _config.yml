@@ -1,10 +1,37 @@
 title: "Jhanvi Zala – ML Portfolio"
 description: "Projects, Skills, and Experience of a Machine Learning Engineer"
-url: "https://jhanvizala230.github.io"  # Your main GitHub Pages URL
-baseurl: "/portfolio"                 # Must match your repo name
-theme: jekyll-theme-slate           # Or any supported theme
+url: "https://jhanvizala230.github.io"     # Your GitHub Pages URL
+baseurl: "/portfolio"                      # Repo name
+
+remote_theme: "mmistakes/minimal-mistakes" # ✅ Minimal Mistakes theme
+plugins:
+  - jekyll-remote-theme
+  - jekyll-paginate
+  - jekyll-include-cache
+
 markdown: kramdown
-plugins: [jekyll-remote-theme]
 kramdown:
-  input: GFM  # GitHub Flavored Markdown
+  input: GFM
   syntax_highlighter: rouge
+
+# Navigation bar links
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: single
+      author_profile: true
+
+# Navbar items (customize as needed)
+navigation:
+  - title: "Home"
+    url: "/"
+  - title: "Experience"
+    url: "/experience/"
+  - title: "Projects"
+    url: "/projects/"
+  - title: "Skills"
+    url: "/skills/"
+  - title: "Contact"
+    url: "/contact/"

@@ -1,7 +1,8 @@
 ---
-layout: default
+layout: single
 title: "MLops Engineer"
 permalink: /professional/exp2/
+author_profile: false
 
 ---
 

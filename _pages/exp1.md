@@ -1,7 +1,9 @@
 ---
-layout: default
+layout: single
 title: Backend & Automation Kanban boards – eInfochips (2019–2022)
 permalink: /professional/exp1/
+author_profile: false
+
 ---
 
 ## Professional Experience
