@@ -1,11 +1,9 @@
 ---
 layout: single
-title: "Home"
+# title: ""
 permalink: /
 author_profile: true
 ---
-## About me
-
 Welcome to my portfolio! I'm **Jhanvi Zala**,I’m a Software Engineer and Machine Learning Specialist with 3+ years of experience in cloud-native API development, full-stack systems, and advanced AI solutions. I specialize in:
 
 - Large Language Models (LLMs) and Generative AI
@@ -33,7 +31,7 @@ Explore some of my best work — both from industry and my own experiments.
 
 - 🌋 [Martian Terrain Segmentation](./personal/project2/)
 
--🎙️ [Multilingual TTS (VITS)](./personal/project3/)
+- 🎙️ [Multilingual TTS (VITS)]({{ "/personal/project3/" | relative_url }})
 
 ---
 

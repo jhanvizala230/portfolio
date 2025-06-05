@@ -13,7 +13,6 @@ author_profile: false
 Projects
 
 
-
 Built an AI pipeline to extract structured data from multi-format business documents using NLP and OCR, saving ~80% manual effort.
 
 **Key Contributions:**

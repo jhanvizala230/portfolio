@@ -1,7 +1,7 @@
-title: "Jhanvi Zala – ML Portfolio"
+title: "Jhanvi Zala"
 description: "Projects, Skills, and Experience of a Machine Learning Engineer"
 url: "https://jhanvizala230.github.io"     # Your GitHub Pages URL
-baseurl: "/portfolio"                      # Repo name
+# baseurl: "/portfolio"                      # Repo name
 
 remote_theme: "mmistakes/minimal-mistakes" # ✅ Minimal Mistakes theme
 plugins:
@@ -25,8 +25,8 @@ defaults:
 
 # Navbar items (customize as needed)
 navigation:
-  - title: "Home"
-    url: "/"
+  - title: ""
+    url: "/portfolio"
   - title: "Experience"
     url: "/experience/"
   - title: "Projects"
@@ -35,3 +35,9 @@ navigation:
     url: "/skills/"
   - title: "Contact"
     url: "/contact/"
+
+permalink: pretty
+collections:
+  pages:
+    output: true
+    permalink: /:path/
